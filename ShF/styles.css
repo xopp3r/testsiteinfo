@@ -16,13 +16,14 @@ main{
 .underheader{
     position: sticky;
     top: -5px;
-    height: 150px;
+    height: 7vw;
     width: 100%;
     background-color: #606c38;
 }
 
 header{
-    font-size:100px;
+    flex-wrap: wrap;
+    font-size:5vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #b46724;
     text-shadow: 3px 3px 2px #000;
